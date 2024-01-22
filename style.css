@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.Top_menu li{
+	margin-right: 25px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+header{
+	display: flex;
+	justify-content: center;
+}
+.Top_menu a:hover{
+	color: red;
+
+}
+.Top_menu a{
+	vertical-align: middle;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+}
+.main{
+	width: 100%;
+	text-align: center;
+	color: moccasin;
+	font-family: arial;
+}
+.we{
+	font-family: arial;
+	font-size:25px;
+	color: cyan;
+
+}
+.re{
+	font-family: arial;
+	font-size: 25px;
+	color: cyan;
+}
+.fd{
+	text-align: right;
+	font-family: arial;
+	color: white;
+}
+.gt{
+	text-align: right;
+	font-family: arial;
+	color: white;
+}
